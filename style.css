@@ -1,0 +1,30 @@
+*{
+    box-sizing:border-box;
+    padding: 0;
+    margin: 0;
+}
+h1{
+    color: blue;
+}
+.t1{
+    color: red;
+}
+.texto{
+    color: blueviolet;
+}
+div{
+    background: black;
+}
+.black{
+    width: 100%;
+    height: 300px;
+    background: whitesmoke;
+}
+header{
+    padding: 30px;
+}
+footer{
+    padding: 30px;
+    text-align: center;
+    font-size: 12px;
+}
